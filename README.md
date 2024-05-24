@@ -62,9 +62,10 @@ node sumaDigitos.js
 | Reto              | Descripción                            | Video                                |
 |-------------------|----------------------------------------|--------------------------------------|
 | [01-suma-digitos](01-suma-digitos) | Esta función `sumaDigitos` toma un número y devuelve la suma de sus dígitos                 | [Link al video](https://www.instagram.com/reel/C59aVveuZIM/?igsh=Y2FtcjB6ZWFlaGhn) |
-| [02-nombre-reto](02-nombre-reto)   | Convertidor de temperatura: Convierte grados Celsius a Fahrenheit y viceversa.                 | [Link al video](https://www.instagram.com/reel/C6ho14hugMJ/?igsh=MWd1dTZqMzN2bDljNQ==) |
-| [03-nombre-reto](03-nombre-reto)   | Elemento más grande: Encuentra el elemento más grande en un array.                 | [Link al video](https://www.instagram.com/reel/C6zr7OGuCjf/?igsh=NWZtMzJ0d2ZnNHBy) |
-| [04-nombre-reto](04-nombre-reto)   | Número par o impar: Determina si un número es par o impar.                  | [Link al video](https://www.instagram.com/video4) |
+| [02-temperatura](02-temperatura)   | Convertidor de temperatura: Convierte grados Celsius a Fahrenheit y viceversa.                 | [Link al video](https://www.instagram.com/reel/C6ho14hugMJ/?igsh=MWd1dTZqMzN2bDljNQ==) |
+| [03-elemento-mayor](03-elemento-mayor)   | Elemento más grande: Encuentra el elemento más grande en un array.                 | [Link al video](https://www.instagram.com/reel/C6zr7OGuCjf/?igsh=NWZtMzJ0d2ZnNHBy) |
+| [04-nombre-reto](04-nombre-reto)   | Número par o impar: Determina si un número es par o impar.                  | [Link al video](https://www.instagram.com/reel/C7FzHo8Bepb/?igsh=) |
+| [04-nombre-reto](04-nombre-reto)   | Determina si un número es Primo o no.                 | [Link al video](https://www.instagram.com/reel/C7FzHo8Bepb/?igsh=) |
 ## Autor
 
 [noeosorio.dev](https://www.instagram.com/noeosorio.dev)
