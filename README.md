@@ -19,6 +19,7 @@ Este proyecto contiene una colección de retos de JavaScript. Cada reto está or
 | [04-par-impar](04-par-impar)   | Número par o impar: Determina si un número es par o impar.                  | [Link al video](https://www.instagram.com/reel/C7FzHo8Bepb/?igsh=) |
 | [05-primos](05-primos)   | Determina si un número es Primo o no.                 | [Link al video](https://www.instagram.com/reel/C7Su0bQoY02/?igsh=aWFuNndnaTN5aTBm) |
 | [06-vocales](06-vocales)   | Cuenta las vocales de un texto e imprimelas.                | [Link al video](https://www.instagram.com/reel/C7kViL2ufPl/) |
+| [07-tablas-multiplicar](07-tablas-multiplicar)   | Imprime las tablas de multiplicar.                | [Link al video](https://www.instagram.com/p/C72r7qvuZAY/) |
 
 
 ## Requisitos
